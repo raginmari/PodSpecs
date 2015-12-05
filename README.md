@@ -1,0 +1,2 @@
+# PodSpecs
+My pod specs
